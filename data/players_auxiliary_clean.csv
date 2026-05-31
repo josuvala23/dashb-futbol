@@ -1,0 +1,81 @@
+Pos_Primary,Rank,Player,Nation,Squad,Comp,Age,Score,foto_url,valor_mercado,valor_mercado_fmt
+FW,1,Ousmane Dembélé,fr FRA,Paris S-G,fr Ligue 1,27,0.7896,https://img.a.transfermarkt.technology/portrait/header/288230-1684148641.jpg?lm=1,100000000.0,€100M
+FW,2,Gonçalo Ramos,pt POR,Paris S-G,fr Ligue 1,23,0.6427,https://img.a.transfermarkt.technology/portrait/header/550550-1681906158.jpg?lm=1,35000000.0,€35M
+FW,3,Kylian Mbappé,fr FRA,Real Madrid,es La Liga,25,0.6357,https://img.a.transfermarkt.technology/portrait/header/342229-1682683695.jpg?lm=1,200000000.0,€200M
+FW,4,Mohamed Salah,eg EGY,Liverpool,eng Premier League,32,0.6004,https://img.a.transfermarkt.technology/portrait/header/148455-1727337594.jpg?lm=1,30000000.0,€30M
+FW,5,Alexander Sørloth,no NOR,Atlético Madrid,es La Liga,28,0.5989,https://img.a.transfermarkt.technology/portrait/header/238407-1716403969.jpg?lm=1,20000000.0,€20M
+FW,6,Michael Olise,fr FRA,Bayern Munich,de Bundesliga,22,0.5833,https://img.a.transfermarkt.technology/portrait/header/566723-1762944477.jpg?lm=1,150000000.0,€150M
+FW,7,Harry Kane,eng ENG,Bayern Munich,de Bundesliga,31,0.5824,https://img.a.transfermarkt.technology/portrait/header/132098-1700211169.jpg?lm=1,60000000.0,€60M
+FW,8,Ferrán Torres,es ESP,Barcelona,es La Liga,24,0.5785,https://img.a.transfermarkt.technology/portrait/header/398184-1779789996.jpg?lm=1,50000000.0,€50M
+FW,9,Mika Biereth,dk DEN,Monaco,fr Ligue 1,21,0.5765,https://img.a.transfermarkt.technology/portrait/header/565821-1736777758.jpg?lm=1,18000000.0,€18M
+FW,10,Bradley Barcola,fr FRA,Paris S-G,fr Ligue 1,21,0.5639,https://img.a.transfermarkt.technology/portrait/header/708265-1780063967.jpg?lm=1,70000000.0,€70M
+FW,11,Leroy Sané,de GER,Bayern Munich,de Bundesliga,28,0.5636,https://img.a.transfermarkt.technology/portrait/header/192565-1694587968.jpg?lm=1,20000000.0,€20M
+FW,12,Georges Mikautadze,ge GEO,Lyon,fr Ligue 1,23,0.5202,https://img.a.transfermarkt.technology/portrait/header/729814-1719222514.jpg?lm=1,28000000.0,€28M
+FW,13,Raphinha,br BRA,Barcelona,es La Liga,27,0.518,https://img.a.transfermarkt.technology/portrait/header/411295-1729754479.png?lm=1,80000000.0,€80M
+FW,14,Mateo Retegui,it ITA,Atalanta,it Serie A,25,0.5033,https://img.a.transfermarkt.technology/portrait/header/554903-1681311414.jpg?lm=1,35000000.0,€35M
+FW,15,Serge Gnabry,de GER,Bayern Munich,de Bundesliga,29,0.5001,https://img.a.transfermarkt.technology/portrait/header/159471-1759909173.jpg?lm=1,18000000.0,€18M
+FW,16,Omar Marmoush,eg EGY,Eint Frankfurt (+1),de Bundesliga,25,0.4993,https://img.a.transfermarkt.technology/portrait/header/445939-1747656490.jpg?lm=1,60000000.0,€60M
+FW,17,Hugo Ekitike,fr FRA,Eint Frankfurt,de Bundesliga,22,0.4982,https://img.a.transfermarkt.technology/portrait/header/709726-1758714741.jpg?lm=1,90000000.0,€90M
+FW,18,Bukayo Saka,eng ENG,Arsenal,eng Premier League,22,0.4981,https://img.a.transfermarkt.technology/portrait/header/433177-1684155052.jpg?lm=1,120000000.0,€120M
+FW,19,Robert Lewandowski,pl POL,Barcelona,es La Liga,35,0.4975,https://img.a.transfermarkt.technology/portrait/header/38253-1760445524.jpg?lm=1,8000000.0,€8M
+FW,20,Jáder Durán,co COL,Aston Villa,eng Premier League,20,0.4867,,,
+MF,1,Luka Modrić,hr CRO,Real Madrid,es La Liga,38,0.6803,https://img.a.transfermarkt.technology/portrait/header/27992-1687776160.jpg?lm=1,3500000.0,€3.5M
+MF,2,Joshua Kimmich,de GER,Bayern Munich,de Bundesliga,29,0.6335,https://img.a.transfermarkt.technology/portrait/header/161056-1700039639.jpg?lm=1,35000000.0,€35M
+MF,3,Pedri,es ESP,Barcelona,es La Liga,21,0.6193,https://img.a.transfermarkt.technology/portrait/header/683840-1744278342.jpg?lm=1,150000000.0,€150M
+MF,4,Dani Ceballos,es ESP,Real Madrid,es La Liga,27,0.6023,https://img.a.transfermarkt.technology/portrait/header/319745-1723666162.jpg?lm=1,8000000.0,€8M
+MF,5,Bruno Fernandes,pt POR,Manchester Utd,eng Premier League,29,0.5787,https://img.a.transfermarkt.technology/portrait/header/240306-1683882766.jpg?lm=1,40000000.0,€40M
+MF,6,Isco,es ESP,Betis,es La Liga,32,0.576,https://img.a.transfermarkt.technology/portrait/header/85288-1744375744.jpg?lm=1,4000000.0,€4M
+MF,7,Arda Güler,tr TUR,Real Madrid,es La Liga,19,0.5707,https://img.a.transfermarkt.technology/portrait/header/861410-1699472585.jpg?lm=1,90000000.0,€90M
+MF,8,Alex Baena,es ESP,Villarreal,es La Liga,23,0.5657,https://img.a.transfermarkt.technology/portrait/header/548111-1761821030.jpg?lm=1,45000000.0,€45M
+MF,9,Hakan Çalhanoğlu,tr TUR,Inter,it Serie A,30,0.5617,https://img.a.transfermarkt.technology/portrait/header/126414-1709035146.jpg?lm=1,16000000.0,€16M
+MF,10,Kevin De Bruyne,be BEL,Manchester City,eng Premier League,33,0.5567,https://img.a.transfermarkt.technology/portrait/header/88755-1713391485.jpg?lm=1,8000000.0,€8M
+MF,11,Aleksandr Golovin,ru RUS,Monaco,fr Ligue 1,28,0.5519,https://img.a.transfermarkt.technology/portrait/header/263918-1614091807.jpg?lm=1,18000000.0,€18M
+MF,12,Martin Ødegaard,no NOR,Arsenal,eng Premier League,25,0.549,https://img.a.transfermarkt.technology/portrait/header/316264-1678877651.jpg?lm=1,65000000.0,€65M
+MF,13,Lazar Samardzic,rs SRB,Atalanta,it Serie A,22,0.5485,https://img.a.transfermarkt.technology/portrait/header/528833-1757605226.jpg?lm=1,16000000.0,€16M
+MF,14,Kevin Stöger,at AUT,Gladbach,de Bundesliga,30,0.547,https://img.a.transfermarkt.technology/portrait/header/106872-1722945684.jpg?lm=1,1800000.0,€1.8M
+MF,15,Florian Wirtz,de GER,Leverkusen,de Bundesliga,21,0.5436,https://img.a.transfermarkt.technology/portrait/header/598577-1689710503.jpg?lm=1,110000000.0,€110M
+MF,16,Giovani Lo Celso,ar ARG,Betis,es La Liga,28,0.5427,https://img.a.transfermarkt.technology/portrait/header/348795-1726734706.jpg?lm=1,10000000.0,€10M
+MF,17,Thiago Almada,ar ARG,Lyon,fr Ligue 1,23,0.5396,https://img.a.transfermarkt.technology/portrait/header/576028-1773174386.jpg?lm=1,20000000.0,€20M
+MF,18,Angelo Stiller,de GER,Stuttgart,de Bundesliga,23,0.5315,,,
+MF,19,Amine Harit,ma MAR,Marseille,fr Ligue 1,27,0.5289,,,
+MF,20,Fabián Ruiz Peña,es ESP,Paris S-G,fr Ligue 1,28,0.5288,,,
+DF,1,Mats Wieffer,nl NED,Brighton,eng Premier League,24,0.6353,https://img.a.transfermarkt.technology/portrait/header/415381-1779892289.jpg?lm=1,25000000.0,€25M
+DF,2,Mats Hummels,de GER,Roma,it Serie A,35,0.6051,https://img.a.transfermarkt.technology/portrait/header/39728-1709560545.jpg?lm=1,3000000.0,€3M
+DF,3,Mohamed Abdelmoneim,eg EGY,Nice,fr Ligue 1,25,0.5988,https://img.a.transfermarkt.technology/portrait/header/566025-1739971401.jpg?lm=1,3000000.0,€3M
+DF,4,Luck Zogbé,ci CIV,Brest,fr Ligue 1,19,0.5876,https://img.a.transfermarkt.technology/portrait/header/1144999-1725882803.jpg?lm=1,1500000.0,€1.5M
+DF,5,Jérémy Jacquet,fr FRA,Rennes,fr Ligue 1,19,0.5837,https://img.a.transfermarkt.technology/portrait/header/1004301-1714503850.jpg?lm=1,55000000.0,€55M
+DF,6,Ismaily,br BRA,Lille,fr Ligue 1,34,0.5829,https://img.a.transfermarkt.technology/portrait/header/124028-1666690981.jpg?lm=1,1500000.0,€1.5M
+DF,7,Tom Louchet,fr FRA,Nice,fr Ligue 1,21,0.5772,https://img.a.transfermarkt.technology/portrait/header/750904-1756824707.jpg?lm=1,7000000.0,€7M
+DF,8,Maximilian Mittelstädt,de GER,Stuttgart,de Bundesliga,27,0.5738,https://img.a.transfermarkt.technology/portrait/header/282660-1723707584.jpg?lm=1,18000000.0,€18M
+DF,9,Dayot Upamecano,fr FRA,Bayern Munich,de Bundesliga,25,0.5686,https://img.a.transfermarkt.technology/portrait/header/344695-1701245272.jpg?lm=1,70000000.0,€70M
+DF,10,Nico Schlotterbeck,de GER,Dortmund,de Bundesliga,24,0.5679,https://img.a.transfermarkt.technology/portrait/header/388198-1709560457.jpg?lm=1,55000000.0,€55M
+DF,11,Mohammed Salisu,gh GHA,Monaco,fr Ligue 1,25,0.5661,https://img.a.transfermarkt.technology/portrait/header/563963-1668428508.jpg?lm=1,10000000.0,€10M
+DF,12,Welington,br BRA,Southampton,eng Premier League,23,0.5597,https://img.a.transfermarkt.technology/portrait/header/729264-1764146570.jpg?lm=1,3000000.0,€3M
+DF,13,Kostas Tsimikas,gr GRE,Liverpool,eng Premier League,28,0.5542,https://img.a.transfermarkt.technology/portrait/header/338070-1682088468.jpg?lm=1,4500000.0,€4.5M
+DF,14,Adam Webster,eng ENG,Brighton,eng Premier League,29,0.5534,https://img.a.transfermarkt.technology/portrait/header/212847-1681737411.jpg?lm=1,5000000.0,€5M
+DF,15,El Chadaille Bitshiabu,fr FRA,RB Leipzig,de Bundesliga,19,0.5527,https://img.a.transfermarkt.technology/portrait/header/787912-1672304780.jpg?lm=1,18000000.0,€18M
+DF,16,Jean-Kevin Duverne,ht HAI,Nantes,fr Ligue 1,27,0.5527,,,
+DF,17,Kim Min jae,kr KOR,Bayern Munich,de Bundesliga,27,0.5509,https://img.a.transfermarkt.technology/portrait/header/503482-1700208062.jpg?lm=1,20000000.0,€20M
+DF,18,Marquinhos,br BRA,Paris S-G,fr Ligue 1,30,0.5489,https://img.a.transfermarkt.technology/portrait/header/181767-1672303747.jpg?lm=1,30000000.0,€30M
+DF,19,Waldemar Anton,de GER,Dortmund,de Bundesliga,28,0.5482,,,
+DF,20,Yarek Gasiorowski,es ESP,Valencia,es La Liga,19,0.5478,,,
+GK,1,Mile Svilar,rs SRB,Roma,it Serie A,24,0.62,https://img.a.transfermarkt.technology/portrait/header/338670-1725532174.jpg?lm=1,35000000.0,€35M
+GK,2,Mattia Perin,it ITA,Juventus,it Serie A,31,0.6151,https://img.a.transfermarkt.technology/portrait/header/110923-1695107834.jpg?lm=1,2000000.0,€2M
+GK,3,Josep Martinez,es ESP,Inter,it Serie A,26,0.6128,https://img.a.transfermarkt.technology/portrait/header/388516-1686153132.jpg?lm=1,10000000.0,€10M
+GK,4,Finn Dahmen,de GER,Augsburg,de Bundesliga,26,0.5917,https://img.a.transfermarkt.technology/portrait/header/251299-1755200500.jpg?lm=1,12000000.0,€12M
+GK,5,Đorđe Petrović,rs SRB,Strasbourg,fr Ligue 1,24,0.5873,https://img.a.transfermarkt.technology/portrait/header/465555-1775574265.jpg?lm=1,28000000.0,€28M
+GK,6,Vanja Milinković-Savić,rs SRB,Torino,it Serie A,27,0.5619,https://img.a.transfermarkt.technology/portrait/header/257474-1730125139.jpg?lm=1,20000000.0,€20M
+GK,7,Unai Simón,es ESP,Athletic Club,es La Liga,27,0.5598,https://img.a.transfermarkt.technology/portrait/header/262396-1709674901.png?lm=1,25000000.0,€25M
+GK,8,Yehvann Diouf,sn SEN,Reims,fr Ligue 1,24,0.557,https://img.a.transfermarkt.technology/portrait/header/448632-1756822717.jpg?lm=1,7000000.0,€7M
+GK,9,Lucas Chevalier,fr FRA,Lille,fr Ligue 1,22,0.5381,https://img.a.transfermarkt.technology/portrait/header/463600-1708342501.jpg?lm=1,30000000.0,€30M
+GK,10,Alex Meret,it ITA,Napoli,it Serie A,27,0.5335,https://img.a.transfermarkt.technology/portrait/header/240414-1695025886.jpg?lm=1,8000000.0,€8M
+GK,11,Yann Sommer,ch SUI,Inter,it Serie A,35,0.5261,https://img.a.transfermarkt.technology/portrait/header/42205-1669897427.jpg?lm=1,2000000.0,€2M
+GK,12,Manuel Neuer,de GER,Bayern Munich,de Bundesliga,38,0.5256,https://img.a.transfermarkt.technology/portrait/header/17259-1762943283.jpg?lm=1,4000000.0,€4M
+GK,13,Moritz Nicolas,de GER,Gladbach,de Bundesliga,26,0.5194,https://img.a.transfermarkt.technology/portrait/header/284270-1722945496.jpg?lm=1,8000000.0,€8M
+GK,14,Marco Carnesecchi,it ITA,Atalanta,it Serie A,24,0.517,https://img.a.transfermarkt.technology/portrait/header/459763-1695027944.jpg?lm=1,30000000.0,€30M
+GK,15,Nicola Leali,it ITA,Genoa,it Serie A,31,0.5163,https://img.a.transfermarkt.technology/portrait/header/136111-1692963337.jpg?lm=1,1000000.0,€1M
+GK,16,Ederson,br BRA,Manchester City,eng Premier League,30,0.512,https://img.a.transfermarkt.technology/portrait/header/238223-1765380595.jpg?lm=1,10000000.0,€10M
+GK,17,Nikola Vasilj,ba BIH,St. Pauli,de Bundesliga,28,0.5099,,,
+GK,18,Yahia Fofana,ci CIV,Angers,fr Ligue 1,23,0.5081,,,
+GK,19,Péter Gulácsi,hu HUN,RB Leipzig,de Bundesliga,34,0.5078,,,
+GK,20,Julen Agirrezabala,es ESP,Athletic Club,es La Liga,23,0.5011,,,
